@@ -8,6 +8,8 @@
 -----------
 
 <h2>影评数据分析</h2>
-1. [《哪吒之魔童降世》猫眼影评数据](https://github.com/YunyeeLo/DataAnalysis/issues/3)
-1. [《 烈火英雄》猫眼影评数据](https://github.com/YunyeeLo/DataAnalysis/issues/4)
+
+[《哪吒之魔童降世》猫眼影评数据](https://github.com/YunyeeLo/DataAnalysis/issues/3)
+
+[《 烈火英雄》猫眼影评数据](https://github.com/YunyeeLo/DataAnalysis/issues/4)
 
